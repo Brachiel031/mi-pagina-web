@@ -1,0 +1,40 @@
+<div style={{width: 1281, height: 1995, position: 'relative', borderRadius: 5, overflow: 'hidden', border: '1px #9747FF dotted'}}>
+  <div style={{padding: 10, left: 20, top: 20, position: 'absolute', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+    <div style={{justifyContent: 'center', alignItems: 'center', gap: 56, display: 'flex'}}>
+      <div style={{width: 365, height: 452, position: 'relative'}}>
+        <div style={{width: 347, height: 42, left: 9, top: 410, position: 'absolute', textAlign: 'center', color: 'rgba(149.81, 229.75, 255, 0)', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Participa en torneos!</div>
+        <div style={{width: 347, height: 42, left: 9, top: 410, position: 'absolute', textAlign: 'center', color: 'rgba(149.81, 229.75, 255, 0)', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Participa en torneos!</div>
+        <img style={{width: 365, height: 400, left: 0, top: 0, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 50, border: '9px rgba(0, 163.20, 255, 0) solid'}} src="https://via.placeholder.com/365x400" />
+      </div>
+      <div style={{width: 328, height: 374, position: 'relative'}}>
+        <div style={{width: 328, height: 42, left: 0, top: 332, position: 'absolute', textAlign: 'center', color: 'rgba(149.81, 229.75, 255, 0)', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 32, wordWrap: 'break-word'}}>¡Sigue los torneos donde quiera que estes!</div>
+        <div style={{width: 328, height: 42, left: 0, top: 332, position: 'absolute', textAlign: 'center', color: 'rgba(149.81, 229.75, 255, 0)', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 32, wordWrap: 'break-word'}}>¡Sigue los torneos donde quiera que estes!</div>
+        <img style={{width: 280, height: 310, left: 24, top: 0, position: 'absolute', borderRadius: 50, border: '9px rgba(0, 163.20, 255, 0) solid'}} src="https://via.placeholder.com/280x310" />
+      </div>
+      <div style={{width: 365, height: 452, position: 'relative'}}>
+        <div style={{width: 328, height: 42, left: 18, top: 410, position: 'absolute', textAlign: 'center', color: 'rgba(149.81, 229.75, 255, 0)', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Juega con amigos!</div>
+        <div style={{width: 328, height: 42, left: 18, top: 410, position: 'absolute', textAlign: 'center', color: 'rgba(149.81, 229.75, 255, 0)', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Juega con amigos!</div>
+        <img style={{width: 365, height: 400, left: 0, top: 0, position: 'absolute', borderRadius: 50, border: '9px rgba(0, 163.20, 255, 0) solid'}} src="https://via.placeholder.com/365x400" />
+      </div>
+    </div>
+  </div>
+  <div style={{paddingTop: 9, paddingBottom: 9, left: 55, top: 1444, position: 'absolute', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+    <div style={{justifyContent: 'center', alignItems: 'center', gap: 56, display: 'inline-flex'}}>
+      <div style={{width: 365, height: 452, position: 'relative'}}>
+        <div style={{width: 347, height: 42, left: 9, top: 410, position: 'absolute', textAlign: 'center', color: '#96E6FF', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Participa en torneos!</div>
+        <div style={{width: 347, height: 42, left: 9, top: 410, position: 'absolute', textAlign: 'center', color: '#96E6FF', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Participa en torneos!</div>
+        <img style={{width: 365, height: 400, left: 0, top: 0, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 50, border: '9px #00A3FF solid'}} src="https://via.placeholder.com/365x400" />
+      </div>
+      <div style={{width: 328, height: 374, position: 'relative'}}>
+        <div style={{width: 328, height: 42, left: 0, top: 332, position: 'absolute', textAlign: 'center', color: '#96E6FF', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 32, wordWrap: 'break-word'}}>¡Sigue los torneos donde quiera que estes!</div>
+        <div style={{width: 328, height: 42, left: 0, top: 332, position: 'absolute', textAlign: 'center', color: '#96E6FF', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 32, wordWrap: 'break-word'}}>¡Sigue los torneos donde quiera que estes!</div>
+        <img style={{width: 280, height: 310, left: 24, top: 0, position: 'absolute', borderRadius: 50, border: '9px #00A3FF solid'}} src="https://via.placeholder.com/280x310" />
+      </div>
+      <div style={{width: 365, height: 452, position: 'relative'}}>
+        <div style={{width: 328, height: 42, left: 18, top: 410, position: 'absolute', textAlign: 'center', color: '#96E6FF', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Juega con amigos!</div>
+        <div style={{width: 328, height: 42, left: 18, top: 410, position: 'absolute', textAlign: 'center', color: '#96E6FF', fontSize: 30, fontFamily: 'Poppins', fontStyle: 'italic', fontWeight: '700', lineHeight: 50, wordWrap: 'break-word'}}>¡Juega con amigos!</div>
+        <img style={{width: 365, height: 400, left: 0, top: 0, position: 'absolute', borderRadius: 50, border: '9px #00A3FF solid'}} src="https://via.placeholder.com/365x400" />
+      </div>
+    </div>
+  </div>
+</div>
